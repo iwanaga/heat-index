@@ -22,3 +22,6 @@ HI.toFahrenheit(86);
 ```
 npm install heat-index
 ```
+
+## special thanks
+[NOAA's National Weather Service](http://www.hpc.ncep.noaa.gov/html/heatindex_equation.shtml)
